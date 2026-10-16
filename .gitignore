@@ -9,6 +9,3 @@ __pycache__/
 
 # Large local datasets
 data/
-
-# Generated vector database files
-vectorstore/
