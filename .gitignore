@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Large local datasets
+data/
+
+# Generated vector database files
+vectorstore/
