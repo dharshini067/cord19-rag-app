@@ -12,6 +12,3 @@ serverAddress = "localhost"
 
 [theme]
 primaryColor = "#4B8BBE"
-
-[server]
-port = 8502
